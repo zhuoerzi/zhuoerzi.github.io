@@ -1599,6 +1599,7 @@ header.header {
   color: #f00;
   display: inline-block;
   margin: 0 5px;
+  animation: icon-animate 1.33s ease-in-out infinite;
 }
 @-moz-keyframes icon-animate {
   0%, 100% {
@@ -1682,10 +1683,6 @@ header.header {
   position: fixed;
   z-index: 30;
   right: 30px;
-  width: 24px;
-}
-.back-to-top span {
-  display: none;
 }
 @media (max-width: 991px) {
   .back-to-top {
