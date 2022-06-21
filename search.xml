@@ -11,9 +11,20 @@
   <entry>
     <title>演艺生涯</title>
     <url>/2022/06/18/%E6%BC%94%E8%89%BA%E7%94%9F%E6%B6%AF/</url>
-    <content><![CDATA[<video width="320" height="240" controls>
+    <content><![CDATA[<!-- <video width="320" height="240" controls>
     <source src="../video/1.mp4" type="video/mp4">
-</video>]]></content>
+</video> -->
+
+<iframe 
+src="../video/1.mp4" 
+scrolling="no" 
+border="0" 
+frameborder="no" 
+framespacing="0" 
+allowfullscreen="true" 
+height=600 
+width=800> 
+</iframe>]]></content>
       <categories>
         <category>演艺生涯</category>
       </categories>
