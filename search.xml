@@ -9,6 +9,16 @@
 ]]></content>
   </entry>
   <entry>
+    <title>演艺生涯</title>
+    <url>/2022/06/18/%E6%BC%94%E8%89%BA%E7%94%9F%E6%B6%AF/</url>
+    <content><![CDATA[<video width="320" height="240" controls>
+    <source src="../video/1.mp4" type="video/mp4">
+</video>]]></content>
+      <categories>
+        <category>演艺生涯</category>
+      </categories>
+  </entry>
+  <entry>
     <title>美照</title>
     <url>/2022/06/18/%E7%BE%8E%E7%85%A7/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -25,16 +35,6 @@
 <script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
         <category>美照</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>演艺生涯</title>
-    <url>/2022/06/18/%E6%BC%94%E8%89%BA%E7%94%9F%E6%B6%AF/</url>
-    <content><![CDATA[<video width="320" height="240" controls>
-    <source src="../video/1.mp4" type="video/mp4">
-</video>]]></content>
-      <categories>
-        <category>演艺生涯</category>
       </categories>
   </entry>
 </search>
